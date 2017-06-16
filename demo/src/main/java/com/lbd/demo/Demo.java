@@ -11,5 +11,10 @@ public class Demo {
 		int p = 5;
 		int q = 7;
 		System.out.println(""+p+"-"+q+" = "+cal.substract(p, q));
+		
+		int a = 5;
+		int b = 7;
+		System.out.println(""+a+"*"+b+" = "+cal.mult(a, b));
+		
 	}
 }
