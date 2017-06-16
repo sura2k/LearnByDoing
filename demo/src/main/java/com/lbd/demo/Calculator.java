@@ -9,4 +9,8 @@ public class Calculator {
 	public double substract(double a, double b){
 		return a-b;
 	}
+	
+	public double mult(double a, double b){
+		return a*b;
+	}
 }
